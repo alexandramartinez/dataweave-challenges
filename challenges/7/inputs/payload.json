@@ -1,0 +1,38 @@
+{
+    "name": "a",
+    "object": {
+      "name": "b",
+      "l": [
+        {
+          "other": "c",
+          "list": [
+            
+          ]
+        },
+        {
+          "thisname": "def",
+          "list": [
+            {
+              "this": "500e",
+              "l": [
+                {
+                  "finalname": "f"
+                },
+                {
+                  "finalname": "ghijk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "array": [
+      {
+        "thisname": "h"
+      },
+      {
+        "xyz": "abc123"
+      }
+    ]
+  }
