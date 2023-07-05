@@ -7,3 +7,4 @@
 - [DataWeave programming challenge #5: Reverse a phrase's words, but keep the punctuation](https://www.prostdev.com/post/dataweave-programming-challenge-5)
 - [DataWeave programming challenge #6: Using tail-recursion to get the factorial of a number](https://www.prostdev.com/post/dataweave-programming-challenge-6)
 - [DataWeave programming challenge #7: Modify certain values from a JSON structure](https://www.prostdev.com/post/dataweave-programming-challenge-7)
+- [DataWeave programming challenge #8: Sum all digits to get a 1-digit number](https://www.prostdev.com/post/dataweave-programming-challenge-8)
